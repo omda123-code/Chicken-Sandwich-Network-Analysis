@@ -128,5 +128,8 @@ Histogram shows clustering between $5
 -Explore seasonal trends and regional promotions.
 
 ## 🏷️ Author
-Prepared by: Mohamed Emad Alhadi - Data Analyst
-Date: September 2025
+### Prepared by: 
+**Mohamed Emad Alhadi - Data Analyst**
+### Date: 
+***September 2025***
+
