@@ -37,6 +37,9 @@ Chicken_Sandwich_Analysis/
 ## Installation
 ```bash
 pip install pandas matplotlib seaborn fpdf
+
+----
+
 ### Usage
 Run SQL queries in sql_queries/ to extract the necessary data.
 
