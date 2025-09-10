@@ -34,11 +34,7 @@ Chicken_Sandwich_Analysis/
 - SQL Server (for running queries)
 - Power BI (In progress)
 
-## Installation
-```bash
-pip install pandas matplotlib seaborn fpdf
-
-----
+---
 
 ### Usage
 Run SQL queries in sql_queries/ to extract the necessary data.
