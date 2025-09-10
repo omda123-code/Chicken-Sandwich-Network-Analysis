@@ -1,0 +1,931 @@
+id,state,location
+2,al,Alabama A&M University
+4,al,Alabama State University
+5,al,Alabaster
+9,al,Auburn In-Line DT
+10,al,Auburn Mall
+11,al,Auburn University
+12,al,Auburn University - ARENA Concessions
+13,al,Auburn University - Village Dining
+14,al,Bel Air Mall
+15,al,Birmingham-Shuttlesworth International Airport
+22,al,EastChase
+32,al,Governors Drive
+35,al,Hampton Cove In-Line DT
+37,al,Hoover Commons
+38,al,Inverness
+40,al,Jacksonville State University
+45,al,Midtown Plaza In-Line
+49,al,Northport
+54,al,Parkway Place
+58,al,Prattville
+62,al,RSA Battlehouse
+63,al,RSA Regions Tower
+75,al,Troy University
+77,al,Tuscaloosa Drive-Thru Only
+78,al,Tuscaloosa South
+80,al,University Drive
+82,al,University of Alabama
+83,al,University of Alabama - Huntsville
+85,al,University of Alabama Birmingham Hospital
+86,al,University of Alabama-Lloyd Hall
+87,al,University of North Alabama
+88,al,University of South Alabama
+99,az,Arizona State University - Downtown
+100,az,Arizona State University - West Campus
+103,az,Bethany Home
+109,az,Deer Valley
+111,az,Flagstaff
+113,az,Goodyear
+114,az,Grand Canyon University
+115,az,Grand Canyon University - Diamondback Apartments
+122,az,Northern Arizona University
+133,az,Stapley Drive
+138,az,University at Mill
+141,ar,7th & Broadway
+142,ar,Arkansas State University
+144,ar,Chenal & Markham
+145,ar,Clinton National Airport
+146,ar,Conway Commons
+148,ar,Harding University
+149,ar,Henderson State University
+151,ar,Markham & University
+153,ar,McCain Boulevard
+156,ar,Ouachita Baptist University
+159,ar,Razorback Road
+164,ar,Southern Arkansas University
+169,ar,University of Arkansas-Fayetteville
+170,ar,University of Arkansas-Fort Smith
+171,ar,University of Central Arkansas
+172,ar,Wal-Mart Headquarters
+179,ca,17th at Tustin
+180,ca,405 & Atlantic LB
+181,ca,405 & Avalon
+183,ca,605 & Firestone
+184,ca,7th & Fig In-Line
+185,ca,91 & Orangethorpe
+190,ca,Avenue K & 15th St. SW
+191,ca,Azusa
+193,ca,Beach Boulevard
+197,ca,Bristol & MacArthur
+198,ca,California Baptist University
+199,ca,California Polytechnic State University
+204,ca,Cerritos
+209,ca,Clairemont
+211,ca,Crenshaw & Amsler
+214,ca,Day Street
+215,ca,Del Amo In-Line
+216,ca,Del Rey & Lincoln Drive-Thru Only
+219,ca,Devonshire & Reseda
+225,ca,El Toro Road
+227,ca,Emeryville In-Line
+228,ca,Encinitas In-Line DT
+230,ca,Escondido
+234,ca,First Street
+240,ca,Granite Bay
+242,ca,Harbor Blvd
+244,ca,Hollywood Drive-Thru Only
+246,ca,Huntington SW & 210
+247,ca,Hwy 125 & Jamacha
+249,ca,Hwy 215 & Nuevo Road
+250,ca,Hwy 78 & Vista Village
+251,ca,Hwy 99 & Yosemite Ave
+252,ca,I-10 & Barranca
+254,ca,I-10 & Monterey Ave.
+255,ca,I-10 & Mountain Ave
+256,ca,I-10 & Yucaipa Blvd
+257,ca,I-15 at Cantu Galleano Ranch Rd.
+260,ca,Imperial & Lakewood
+261,ca,La Habra Marketplace
+265,ca,Lake & Boylston
+267,ca,Lincoln & Pacific Drive-Thru Only
+268,ca,Livermore Avenue & 580
+271,ca,Los Angeles International Airport
+273,ca,Madison Avenue Sacramento
+274,ca,Main & Almond
+277,ca,Mendocino Avenue
+278,ca,Mile of Cars Way
+279,ca,Milpitas Town Center
+281,ca,Mission Center Road
+282,ca,Monterey Park Market Place
+283,ca,Monterey Park Market Place
+289,ca,North Salinas
+293,ca,Ocean View Hills
+294,ca,Olive & Alameda In-Line
+295,ca,Ontario International Airport - Terminal 4
+297,ca,Outlets at San Clemente
+300,ca,PCH & Maple
+301,ca,Pittsburg In-Line DT
+302,ca,Plaza Del Obispo
+303,ca,Pleasant Grove
+309,ca,Redondo Beach
+313,ca,Rohnert Park
+314,ca,San Jose International Airport - Terminal B
+315,ca,San Marcos
+318,ca,Serramonte Center
+320,ca,Silver Creek Valley & 101
+321,ca,Sorrento Valley
+323,ca,Sports Arena
+325,ca,Sycamore Square
+328,ca,The Americana at Brand In-Line
+329,ca,The Brea Plaza In-Line DT
+332,ca,The Shops at Santa Anita Mall
+333,ca,Topanga & Roscoe
+335,ca,UCLA In-Line
+336,ca,University Center Irvine
+337,ca,USC In-Line
+341,ca,Victory & Fallbrook
+342,ca,Vincent & Lake
+344,ca,Western & Sierra Vista
+346,ca,Westlake Village Drive-Thru Only
+347,ca,Whipple & 101
+350,ca,Whittwood
+354,co,120th & Bradburn
+367,co,Citadel Crossing
+368,co,Colfax & Garfield
+369,co,Colorado Mesa University
+370,co,Denver International Airport
+371,co,Denver West
+376,co,Fountain
+383,co,Hampden and I-25
+388,co,Loveland
+393,co,Park Meadows Mall
+405,co,Streets at Southglenn In-Line DT
+409,ct,Buckland Hills (CT)
+413,ct,Mohegan Sun Resort
+421,de,Bear
+425,de,Concord Mall
+427,de,Kirkwood Hwy
+431,de,New Castle
+432,de,North Dover
+437,fl,Addie's Corner
+445,fl,Aventura In-Line
+447,fl,Bartow
+463,fl,Clark Road
+471,fl,Cortez Plaza
+473,fl,Creekwood
+477,fl,Cypress Ranch
+483,fl,Delray Beach
+484,fl,Destin
+485,fl,Doral
+487,fl,Eagle Harbor
+488,fl,Eastern Florida State College
+489,fl,Edgewater
+490,fl,Embry Riddle Aeronautical University
+497,fl,Florida Gulf Coast University
+498,fl,Florida Hotel at the Florida Mall
+505,fl,Fourth Street North
+506,fl,Fruitville Road
+514,fl,Hialeah Westland
+518,fl,I-75 & Archer Road Drive-Thru Only
+521,fl,Jacksonville University
+522,fl,Kendall
+527,fl,Lake City
+531,fl,Lakewood (FL)
+532,fl,Lantana
+538,fl,Manatee Ave & 43rd
+540,fl,Marianna [FL]
+542,fl,Melbourne Square
+546,fl,Miami Central
+547,fl,Miami Gardens
+548,fl,Miami Lakes
+550,fl,Millenia
+551,fl,Miramar & Flamingo
+552,fl,Mitchell Ranch Plaza
+565,fl,Northlake Boulevard
+567,fl,Oaks Mall
+568,fl,Ocala
+574,fl,Orlando Int’l Airport – North Terminal/Pre-Sec
+575,fl,Orlando International Airport - South Terminal
+582,fl,Palm Beach Atlantic University
+583,fl,Palm Beach Lakes Blvd.
+586,fl,Palmetto Park & I-95
+587,fl,Panama City Beach
+592,fl,Pensacola International Airport
+595,fl,Plant City
+604,fl,River Landing In-Line
+612,fl,Shands Hospital (Sun Terrace)-Gainesville
+618,fl,Southeastern University
+622,fl,SR 16 & Inman Road
+630,fl,Tampa International Airport-Airside A
+631,fl,Tampa International Airport-Main Terminal
+633,fl,Temple Terrace
+635,fl,The Gardens
+640,fl,The Standard In-Line
+644,fl,Tuskawilla Road
+651,fl,University of Central Florida
+652,fl,University of Central Florida - RWC
+653,fl,University of Florida
+655,fl,University of North Florida
+663,fl,Vineland Pointe
+666,fl,Wells Road
+669,fl,West Boynton Beach
+670,fl,West Hillsborough
+671,fl,West Tennessee Street
+680,ga,Abercorn
+682,ga,Akers Mill Drive-Thru Only
+686,ga,Americus [GA]
+687,ga,Arbor Place
+688,ga,AT&T Center
+693,ga,Austell Road
+694,ga,Avalon
+698,ga,Barrett Parkway
+701,ga,Berry College
+706,ga,Brookhaven In-Line
+708,ga,Brunswick (GA)
+709,ga,Byron [GA]
+710,ga,Calhoun
+711,ga,Camp Creek Parkway
+713,ga,Carrollton
+716,ga,Chamblee Plaza
+717,ga,Chastain Road In-Line DT
+724,ga,CNN Center
+725,ga,College Football Hall of Fame
+726,ga,Colony Square
+729,ga,Commerce
+736,ga,Cumberland Mall
+740,ga,Dalton
+741,ga,Dalton Mall
+743,ga,Delta Air Lines Headquarters
+747,ga,Downtown Athens In-Line
+748,ga,Downtown Decatur
+751,ga,Dwarf House Shipping Container Drive-Thru
+752,ga,Eagles Landing
+758,ga,Fairburn Road Drive-Thru Only
+759,ga,Fayetteville Dwarf House
+761,ga,Forest Park Dwarf House
+765,ga,Georgia College and State University
+767,ga,Georgia Southern University
+770,ga,Georgia State University
+773,ga,Grady Memorial Hospital
+779,ga,Hartsfield-Jackson Atlanta Int'l Airport - Conc A
+780,ga,Hartsfield-Jackson Atlanta Int'l Airport - Conc C
+781,ga,Hickory Flat
+783,ga,Hiram
+784,ga,Howell Mill
+786,ga,Jefferson (GA)
+788,ga,Jett Ferry Road
+789,ga,Jimmy Carter Blvd.
+791,ga,Jonesboro Dwarf House
+793,ga,Kennesaw State University
+794,ga,Kennesaw State University - Marietta
+795,ga,Kingsland
+796,ga,Kroger/W. Marietta Crossing
+799,ga,Lake Oconee [GA]
+808,ga,Locust Grove
+809,ga,Loganville
+820,ga,Mercer University
+822,ga,Midtown Savannah
+828,ga,North Dalton
+831,ga,North Druid Hills Drive-Thru Only
+833,ga,North Point Parkway
+835,ga,Northeast Georgia Medical Center
+842,ga,Peachtree Center
+843,ga,Peachtree City Midtown
+844,ga,Peachtree Corners
+845,ga,Peachtree Ind. & Pleasant Hill
+852,ga,Pleasant Hill Dwarf House
+853,ga,Ponce & Boulevard
+854,ga,Pooler
+865,ga,Riverdale Dwarf House
+866,ga,Rivermont Station
+867,ga,Riverstone Parkway
+870,ga,Roswell Corners
+871,ga,Roswell Road at Cobb Parkway
+872,ga,Roswell Town Center
+874,ga,Saint Simons
+876,ga,Sam Nunn Blvd
+878,ga,Sanford Stadium
+879,ga,Savannah Quarters
+880,ga,Savannah State University
+882,ga,Senoia
+883,ga,Smyrna (GA)
+885,ga,South Cobb Drive
+887,ga,St. Augustine Road
+891,ga,Stonebridge Village
+894,ga,Suwanee Road
+895,ga,Terminus In-Line
+896,ga,Terrell Mill
+900,ga,Thomaston [GA]
+905,ga,Toccoa [GA]
+906,ga,Tom Hill Sr Blvd
+908,ga,Towne Lake
+909,ga,Truett's Chick-fil-A - Newnan
+910,ga,Truett's Chick-fil-A - Rome
+911,ga,Truett's Chick-fil-A - Stockbridge
+912,ga,Truett's Chick-fil-A - Woodstock
+913,ga,Truett's Chick-fil-A Catering & Delivery - VA Ave
+914,ga,Truett's Grill - Griffin
+915,ga,Truett's Grill - McDonough
+916,ga,Truett's Grill - Morrow
+917,ga,Truett's Luau
+923,ga,University of Georgia
+924,ga,University of West Georgia
+925,ga,Valdosta State University - Student Union
+926,ga,Victory at Skidaway
+929,ga,Vine City
+930,ga,Vinings
+931,ga,Washington Road
+932,ga,Watson Blvd
+933,ga,Waycross
+934,ga,Wesley Chapel Road
+936,ga,West Midtown
+937,ga,West Paces Ferry
+940,ga,Windy Hill Road
+951,id,Twin Falls
+953,id,Village at Meridian
+954,il,Addison & Elston (IL) In-Line
+955,il,Algonquin (IL)
+959,il,Bradley Bourbonnais (IL)
+967,il,Chicago Union Station
+974,il,Edwardsville (IL)
+980,il,Golf Mill (IL)
+984,il,Illinois Medical District (IL) In-Line
+985,il,Joliet (IL)
+988,il,Loyola Water Tower In-Line
+989,il,Machesney Park (IL)
+992,il,Millennium Park (IL) In-Line
+1004,il,South Loop (IL)
+1007,il,State and Lake In-Line
+1008,il,Touhy Marketplace (IL)
+1017,il,Wrigleyville (IL) In-Line
+1021,in,Ball State University
+1030,in,Downtown Indy (IN) In-Line
+1031,in,East Washington St. - Indianapolis
+1033,in,Gainbridge Fieldhouse
+1035,in,Greenfield (IN)
+1044,in,Jeffersonville
+1046,in,Marian University
+1047,in,Merrillville
+1052,in,North Greenwood (IN)
+1054,in,Portage Rd
+1057,in,Schererville (IN)
+1058,in,South Bend
+1063,in,The Pyramids
+1065,in,University of Notre Dame - Duncan Student Center
+1068,in,Valparaiso (IN)
+1073,in,Westfield Wheeler Landing
+1086,ia,Sergeant Road
+1090,ks,113th & Nall (KS)
+1091,ks,135th and 69 Hwy
+1094,ks,97th & Metcalf (KS)
+1100,ks,K96 & Greenwich Rd (KS)
+1101,ks,Kansas State University
+1111,ks,Wichita Dwight D. Eisenhower National Airport
+1114,ky,Bardstown Road
+1115,ky,Blankenbaker
+1118,ky,Cincinnati-Northern Kentucky International Airport
+1120,ky,Eastern Kentucky University
+1122,ky,Fayette Mall
+1123,ky,Fort Wright
+1125,ky,Georgetown (KY)
+1126,ky,Glenmary
+1127,ky,Hamburg Place
+1132,ky,Louisville Catering & Delivery
+1135,ky,Middletown Commons
+1138,ky,Nashville Rd at Campbell Lane
+1141,ky,Owensboro
+1142,ky,Paducah
+1143,ky,Palomar
+1147,ky,Russell Cave Rd
+1150,ky,Springhurst
+1154,ky,University of Kentucky
+1155,ky,University of Kentucky - The 90
+1164,la,Algiers
+1166,la,College Drive
+1170,la,East Houma
+1177,la,I-10 & Carrollton
+1178,la,I-10 at Louisiana Avenue
+1182,la,Kaliste Saloom
+1186,la,Lakeside Shopping Center
+1188,la,Louis Armstrong New Orleans Int'l Airport
+1189,la,Louisiana State University
+1190,la,Louisiana Tech University
+1193,la,Mansfield Road
+1196,la,Natchitoches [LA]
+1197,la,Nicholls State University
+1201,la,Poydras Street In-Line
+1205,la,Southeastern Louisiana University - War Memorial
+1206,la,Southern University
+1209,la,University of Louisiana Lafayette
+1210,la,University of Louisiana Monroe
+1211,la,University of New Orleans
+1215,la,Xavier University
+1217,me,Bangor
+1218,me,Rock Row
+1221,md,Anne Arundel Community College
+1223,md,Balk Hill
+1224,md,Baltimore-Washington Intl Airport - A/B Core
+1228,md,Brandywine
+1230,md,Canton Crossing
+1232,md,Capital Plaza
+1237,md,Columbia Mall (MD)
+1247,md,Elkton
+1252,md,Frederick
+1254,md,Frostburg State University
+1259,md,Ingleside
+1260,md,Inner Harbor In-Line
+1263,md,Kent Island
+1270,md,Martin Plaza
+1281,md,Queen City Centre
+1283,md,Ridgeside Drive
+1286,md,Security Square
+1287,md,Severna Park
+1289,md,Silver Spring In-Line
+1295,md,University of Maryland- Baltimore County
+1296,md,University of Maryland-College Park
+1301,md,Westfield Annapolis Mall
+1306,md,York Road
+1307,ma,Attleboro
+1312,ma,Copley Square In-Line
+1314,ma,Fall River (MA)
+1316,ma,Hanover (MA)
+1323,ma,Woburn
+1329,mi,Battle Creek (MI)
+1330,mi,Cascade (MI)
+1332,mi,Detroit Metropolitan Airport
+1333,mi,Detroit Metropolitan Airport-North Terminal
+1339,mi,Livonia (MI)
+1340,mi,Monroe (MI)
+1346,mi,Southfield (MI)
+1347,mi,Traverse City (MI)
+1349,mi,Walker (MI)
+1351,mi,Woodhaven (MI)
+1353,mn,Arden Hills (MN)
+1354,mn,Bloomington (MN)
+1362,mn,Eden Prairie (MN)
+1367,mn,Minneapolis - Saint Paul Intl Airport-Concourse C
+1368,mn,Minneapolis - Saint Paul Intl Airport-Concourse F
+1369,mn,Minnesota State University-Mankato
+1371,mn,Plymouth (MN)
+1374,mn,Stadium Village
+1380,ms,Byram
+1383,ms,Corinth [MS]
+1384,ms,County Line Road
+1385,ms,Delta State University
+1388,ms,Edgewater Mall
+1389,ms,Forrest General Hospital
+1394,ms,HII - Ingalls Shipyard
+1395,ms,Hinds Community College - Student Center
+1396,ms,Jackson State University
+1399,ms,McComb [MS]
+1400,ms,Meridian (MS)
+1401,ms,Methodist Rehabilitation Center
+1402,ms,Mississippi Baptist Medical Center
+1403,ms,Mississippi College
+1404,ms,Mississippi State University
+1409,ms,Petal [MS]
+1410,ms,Regions Plaza
+1411,ms,Ridgeland (MS)
+1417,ms,University of Southern Mississippi
+1430,mo,Downtown Branson
+1435,mo,Hawks Ridge (MO)
+1436,mo,I-44 & Range Line Road
+1444,mo,Missouri University of Science & Technology
+1445,mo,Missouri Western State University
+1451,mo,St. Charles (MO)
+1453,mo,St. Louis College of Pharmacy
+1462,mo,Wentzville
+1464,mt,Billings
+1466,mt,Missoula
+1476,ne,University of Nebraska - Lincoln
+1479,nv,Centennial Hills at 95 Plaza
+1484,nv,Flamingo & Paradise
+1486,nv,Golden Nugget Las Vegas Hotel
+1488,nv,Las Vegas Blvd & I-215
+1490,nv,Sahara at I-15
+1497,nh,Tuscan Village (NH)
+1499,nj,Barrington
+1504,nj,Centerton Square
+1513,nj,Eatontown (NJ)
+1514,nj,Edison Towne Square
+1516,nj,Englewood (NJ) In-Line
+1519,nj,Freehold
+1521,nj,Garden State Park In-Line
+1523,nj,Hackensack (NJ)
+1527,nj,Landis Avenue
+1528,nj,Lawrenceville (NJ)
+1529,nj,Linden
+1530,nj,Manahawkin
+1535,nj,Molly Pitcher Travel Plaza
+1538,nj,Newport Centre
+1539,nj,North Bergen
+1540,nj,North Brunswick (NJ)
+1564,nm,E. University Ave
+1571,nm,Rio Bravo & Coors
+1575,ny,1536 3rd Avenue In-Line
+1576,ny,216 West 125th Street In-Line
+1577,ny,219 West 34th Street In-Line
+1578,ny,22nd & 6th In-Line
+1579,ny,31st & Park (NY) In-Line
+1580,ny,37th & 6th In-Line
+1581,ny,42nd & Madison In-Line
+1582,ny,43rd & 8th In-Line
+1583,ny,46th & 6th In-Line
+1584,ny,601 West 181st Street In-Line
+1585,ny,711 Lexington Avenue In-Line
+1587,ny,918 8th Avenue In-Line
+1588,ny,Albany International Airport
+1591,ny,Clay (NY)
+1593,ny,Commack
+1595,ny,Five Towns
+1596,ny,Flatbush and Atlantic In-Line
+1597,ny,Fulton Street In-Line
+1599,ny,Hamburg (NY)
+1600,ny,Henrietta
+1602,ny,Huntington (NY)
+1603,ny,Irondequoit (NY)
+1604,ny,Jackson Heights 82nd Street In-Line
+1607,ny,NY State Thruway - Ardsley Travel Plaza
+1608,ny,NY State Thruway - Chittenango Travel Plaza
+1609,ny,NY State Thruway - Clifton Springs Travel Plaza
+1610,ny,NY State Thruway - Iroquois Travel Plaza
+1611,ny,NY State Thruway - Plattekill Travel Plaza
+1616,ny,Smithtown
+1617,ny,Staten Island Mall
+1619,ny,Watertown (NY)
+1621,nc,95 & 264 [NC]
+1623,nc,Airport Road
+1630,nc,Asheboro Mall
+1631,nc,Bank of America Plaza
+1632,nc,Battleground Plaza
+1633,nc,Belmont
+1634,nc,Bermuda Run
+1636,nc,Boone
+1637,nc,Brier Creek Parkway at Lumley Road
+1639,nc,Campbell University
+1641,nc,Capital Crossing
+1642,nc,Carolina Mall
+1643,nc,Carolina Pavilion
+1645,nc,Carolinas Medical Center
+1647,nc,Charlotte-Douglas International Airport
+1649,nc,Cleveland Mall
+1656,nc,Cox Rd
+1658,nc,Cross Creek Mall (NC)
+1662,nc,Duke University Medical Center
+1663,nc,East Carolina University - Croatan
+1668,nc,Elon University Commons
+1671,nc,Forest City [NC]
+1674,nc,Friendly
+1676,nc,Gardner-Webb University
+1677,nc,Garner Towne Square
+1679,nc,Gateway Village
+1680,nc,Goldsboro
+1681,nc,Grandover Village
+1687,nc,Harrison Square
+1694,nc,Hillsborough Road
+1701,nc,Jacksonville Mall Drive-Thru Only
+1702,nc,Kernersville
+1703,nc,King [NC]
+1706,nc,Lake Boone Trail
+1710,nc,Lenoir Rhyne University
+1711,nc,Lexington Parkway Plaza
+1715,nc,Matthews
+1720,nc,Midtown Corner
+1727,nc,Morganton
+1729,nc,Mountain Island
+1732,nc,North Carolina Central University
+1733,nc,North Carolina State University
+1734,nc,North Hills In-Line (NC)
+1737,nc,Oleander
+1746,nc,Rand Village
+1748,nc,Research Triangle
+1751,nc,Rocky River Road
+1754,nc,Shallotte [NC]
+1755,nc,Shelby
+1763,nc,South Point Township
+1765,nc,Southern Pines
+1767,nc,Spectrum Center
+1768,nc,Stanleyville
+1772,nc,Talbert Road
+1774,nc,The Village at North Elm
+1775,nc,Thruway Shopping Center
+1777,nc,Townridge Square
+1779,nc,Tunnel Road
+1780,nc,Union Cross
+1781,nc,University Commons
+1782,nc,University of NC - Pembroke
+1783,nc,University of NC-Chapel Hill (Lenoir Hall)
+1784,nc,University of NC-Charlotte
+1785,nc,University of NC-Greensboro (Elliott Center)
+1786,nc,University of NC-Wilmington
+1787,nc,University of North Carolina Hospital-Beach
+1794,nc,Wake Forest University
+1803,nc,Western Carolina University
+1812,nd,Kirkwood Mall (ND)
+1817,oh,Austintown (OH)
+1822,oh,Blue Ash
+1825,oh,Brunswick (OH)
+1830,oh,Cleveland-Hopkins International Airport
+1833,oh,Crocker Park (OH)
+1843,oh,Great American Ball Park
+1846,oh,Harvard Park
+1848,oh,Huber Heights (OH)
+1853,oh,Lorain (OH)
+1854,oh,Macedonia
+1856,oh,Market at East Broad
+1860,oh,Medina (OH)
+1866,oh,Parma (OH)
+1869,oh,Polaris Parkway
+1877,oh,Springdale
+1878,oh,Springfield (OH)
+1882,oh,The OSU In-Line
+1883,oh,Tiffany Square Plaza
+1885,oh,Tuttle Crossing (OH)
+1905,ok,Bixby North
+1916,ok,McAlester [OK]
+1917,ok,Moore
+1927,ok,Quail Springs
+1929,ok,Rockwell North
+1930,ok,Rockwell South
+1936,ok,SSM Health St. Anthony Hospital
+1940,ok,University of Oklahoma
+1951,or,I-5 & Chemawa Rd.
+1954,or,Tanasbourne
+1955,or,Tualatin Valley Hwy & 67th Ave.
+1956,pa,12th Street
+1957,pa,4040 City Ave In-Line
+1959,pa,Adams Plaza
+1962,pa,Audubon
+1967,pa,Broadcasting Square
+1972,pa,Cheltenham
+1973,pa,Collier Township (PA)
+1975,pa,Concord Township
+1977,pa,Dickson City
+1978,pa,Downingtown
+1982,pa,East York
+1984,pa,Erie
+1987,pa,Fox Chapel
+1990,pa,Gateway at Sanatoga
+1994,pa,Happy Valley
+1996,pa,HersheyPark Food Truck
+2004,pa,Lansdale
+2012,pa,Lower Allen
+2022,pa,Northeast Tower
+2023,pa,Oxford Valley Road
+2024,pa,Penrose (Platt Bridge)
+2025,pa,Philadelphia International Airport - B/C Connector
+2026,pa,Philadelphia International Airport - Concourse E
+2027,pa,Pittsburgh International Airport
+2028,pa,Pleasant Hills
+2031,pa,Ridley
+2033,pa,Royersford
+2036,pa,Somerton (PA)
+2038,pa,Springfield Park
+2044,pa,University of Pittsburgh
+2049,pa,Wayne Square In-Line
+2064,sc,Ballentine
+2067,sc,Bluffton
+2068,sc,Bob Jones University
+2069,sc,Boiling Springs
+2072,sc,Cane Bay
+2078,sc,Cherry Road
+2082,sc,Clemson
+2083,sc,Clemson University
+2084,sc,Clemson University - Hendrix Student Center
+2085,sc,Coastal Carolina University
+2086,sc,Coastal Grand
+2087,sc,College of Charleston - Berry Hall
+2093,sc,Five Points
+2095,sc,Furman University-Student Center
+2100,sc,Greenville-Spartanburg International Airport
+2102,sc,Greenwood Drive-Thru Only
+2104,sc,Harbison Blvd.
+2106,sc,Haywood Road
+2110,sc,James Island
+2113,sc,Lander University
+2115,sc,Laurens Road
+2119,sc,Manning [SC]
+2121,sc,McCrays Mill
+2125,sc,Murrells Inlet
+2126,sc,Myrtle Beach International Airport
+2127,sc,NE Main St.
+2128,sc,Newberry College
+2133,sc,Orangeburg
+2134,sc,Pelham Road
+2135,sc,Powdersville
+2136,sc,Red Bank
+2143,sc,South Two Notch Road & I-20
+2150,sc,The Citadel Military College
+2153,sc,University of South Carolina
+2155,sc,US 17 at Hwy 22
+2156,sc,West Columbia
+2157,sc,West Florence
+2164,sd,Empire Place (SD)
+2169,tn,Belmont University
+2176,tn,Charlotte Pike
+2177,tn,Church Street - Nashville
+2178,tn,Collierville
+2182,tn,Crossville [TN]
+2189,tn,Erlanger Health Systems
+2192,tn,Gallatin
+2197,tn,Hamilton Place
+2199,tn,Highway 66
+2200,tn,Homberg Drive
+2203,tn,Jackson [TN]
+2204,tn,Jackson-Madison County Hospital
+2207,tn,Kingston Overlook
+2209,tn,Lee University
+2212,tn,Lipscomb University
+2215,tn,Melrose Music City
+2217,tn,Memphis International Airport - Terminal B
+2219,tn,Middle Tennessee State University
+2221,tn,Morristown
+2223,tn,Nashville International Airport
+2224,tn,Nolensville Pike
+2231,tn,Paragon Place
+2237,tn,Smyrna (TN)
+2240,tn,Stone Drive
+2241,tn,Summer Ave
+2243,tn,Tennessee Tech University
+2244,tn,Tennessee Tower
+2245,tn,The Mall at Johnson City
+2253,tn,University of Memphis-University Center
+2254,tn,University of Tennessee
+2255,tn,University of Tennessee - Rocky Top Building
+2256,tn,University of Tennessee Health Science Center
+2257,tn,University of Tennessee-Chattanooga
+2258,tn,University of Tennessee-Martin
+2260,tn,West Broadway Avenue [TN]
+2263,tn,West Town Drive-Thru Only (OLD)
+2264,tn,West Town Mall
+2275,tx,1960 and Eldridge Parkway
+2276,tx,242 & Harpers Preserve
+2287,tx,45 & Woodridge
+2289,tx,59 & Fondren
+2291,tx,59 & West Airport Drive-Thru Only
+2292,tx,59 and Little York Drive-Thru Only
+2294,tx,6th & Congress In-Line
+2295,tx,75 and Campbell
+2299,tx,Abilene Christian University
+2301,tx,Addison
+2305,tx,Alden Bridge Village Center
+2311,tx,Angelo State University
+2320,tx,Baylor University Medical Center
+2322,tx,Baylor University Student Union
+2328,tx,Beltway 8 & Pearland Parkway
+2345,tx,Cedar Hill
+2348,tx,Central Mall (TX)
+2349,tx,Centreport
+2354,tx,Cinco Ranch
+2355,tx,City Base Landing
+2359,tx,Cockrell Hill Drive-Thru Only
+2363,tx,Cook Children's Medical Center
+2368,tx,Crosby
+2372,tx,Dallas Baptist University
+2374,tx,Dallas/Fort Worth Intl Airport (DFW) - Terminal C
+2375,tx,Dallas/Fort Worth Intl Airport (DFW) - Terminal E
+2376,tx,Dallas/Fort Worth Intl Airport (DFW) -Terminal D
+2377,tx,Debbie Ln & Matlock Rd
+2379,tx,Deerbrook Mall
+2381,tx,Denison [TX]
+2384,tx,DeZavala Road
+2391,tx,East Texas Baptist University
+2397,tx,Elm St In-Line
+2400,tx,ExxonMobil
+2403,tx,First Colony Mall
+2411,tx,Franklin Avenue
+2415,tx,Galleria I
+2416,tx,Gates Of Prosper
+2425,tx,Groves [TX]
+2430,tx,Henderson [TX]
+2431,tx,Hendrick Medical Center
+2437,tx,Houston Baptist University
+2438,tx,Houston Center
+2439,tx,Houston George Bush Inter'l Airport - Terminal A
+2440,tx,Houston George Bush Inter'l Airport - Terminal B
+2448,tx,Hwy 191 at Faudree Road
+2455,tx,Hwy. 6 & Bellaire
+2460,tx,I-10 at John Martin Rd
+2485,tx,Knickerbocker
+2486,tx,Kyle
+2487,tx,La Palmera Mall
+2491,tx,Lake Highlands In-Line DT
+2499,tx,Las Colinas
+2507,tx,Lockheed Martin
+2508,tx,Longview Mall
+2510,tx,Louis Henna Blvd Drive-Thru Only
+2514,tx,Main & Houston In-Line DT
+2515,tx,Main & Kirby
+2522,tx,Marshall
+2529,tx,Memorial City Mall
+2530,tx,Mercedes [TX]
+2532,tx,Mesquite
+2533,tx,Meyer Park Center
+2547,tx,N. Loop 610 & Shepherd
+2553,tx,North Beltline Road
+2568,tx,One Allen Center
+2579,tx,Pennzoil Place
+2584,tx,Plano Parkway
+2588,tx,Prairie View A&M University
+2592,tx,Preston Road & Hwy 121
+2596,tx,Rankin Hwy & Wolcott Ave
+2597,tx,Rayzor Ranch
+2602,tx,Rio Grande City [TX]
+2612,tx,Sam Houston State University
+2617,tx,Seguin Road
+2636,tx,Southwest Pkwy [TX]
+2637,tx,Spanish Village
+2641,tx,Stacy Road
+2643,tx,Stephen F. Austin University
+2644,tx,Stephenville [TX]
+2645,tx,Stockyards
+2649,tx,Sugar Land
+2653,tx,Sunnyvale Centre
+2655,tx,Sunset Mall
+2657,tx,Tarleton State University
+2667,tx,Texas Christian University
+2671,tx,Texas Southern University
+2672,tx,Texas State University
+2673,tx,Texas Tech University
+2674,tx,Texas Tech University - College of Business
+2679,tx,The Crossroads
+2684,tx,The Woodlands Mall
+2694,tx,University of Houston-University Center
+2697,tx,University of Texas - El Paso
+2700,tx,University of Texas Medical Branch
+2701,tx,University of Texas-Arlington
+2702,tx,University of Texas-Austin
+2704,tx,University of Texas-Dallas
+2705,tx,University of Texas-San Antonio (UTSA)
+2722,tx,West Lufkin
+2724,tx,West Texas A&M University
+2735,tx,William P. Hobby Airport
+2743,ut,Bluff Street & Blackridge Drive
+2746,ut,City Creek Center
+2758,ut,Murray
+2764,ut,South Towne Marketplace
+2768,ut,Sugar House
+2770,ut,The Crossing in Saratoga Springs
+2773,ut,Utah Valley University
+2776,va,Annandale
+2779,va,Ballston Quarter
+2780,va,Barracks Road
+2795,va,Chippenham Hospital
+2797,va,Christopher Newport
+2801,va,Crossways Center
+2802,va,Crystal City In-Line
+2815,va,George Mason University (SUB 1)
+2820,va,Hampton University
+2828,va,Kingstowne In-Line DT
+2831,va,Lee's Hill
+2833,va,Liberty University - Tilley
+2834,va,Longwood University
+2842,va,Monticello Marketplace
+2844,va,Newmarket
+2845,va,Norfolk State University
+2848,va,Oaklawn
+2849,va,Old Dominion University
+2850,va,Old Dominion University - University Village
+2855,va,Pentagon City InLine
+2859,va,Radford University
+2861,va,Richmond Financial District
+2863,va,Riverside Drive
+2868,va,Seven Corners In-Line
+2871,va,Signal Hill
+2873,va,Southern Hills Drive
+2874,va,Southpark (VA)
+2876,va,Spotsylvania Towne Centre
+2877,va,Springfield In-Line DT
+2879,va,Stratford Hills
+2883,va,The Shops at Willow Lawn
+2884,va,Timberlake Road
+2885,va,Tuckernuck Plaza
+2886,va,Tyson's West In-Line
+2897,va,Virginia Commonwealth University Health
+2900,va,Virginia Tech
+2903,va,Washington Dulles Airport - Terminal B
+2904,va,Washington Dulles International Airport
+2905,va,Waynesboro
+2907,va,White Oak Village
+2912,va,Woodbrook Drive
+2914,dc,7th Street[DC] In-Line
+2915,dc,Capitol Hill East Drive-Thru Only
+2918,dc,DC USA In-Line
+2920,dc,Ft. Totten
+2923,dc,Ronald Reagan Washington National Airport
+2924,dc,Tenleytown In-Line
+2925,dc,Union Station
+2930,wa,Bonney Lake
+2936,wa,Hwy 99 & 196th
+2939,wa,Marvin Rd. & Quinault
+2940,wa,North Spokane & Route 2
+2941,wa,Northeast 8th Street
+2943,wa,Rainier Ave at Renton Center
+2946,wa,Vancouver Mall Drive In-Line DT
+2947,wv,Beckley Galleria
+2950,wv,Emily Drive
+2957,wv,MacCorkle Ave
+2958,wv,Marshall University
+2962,wv,Patteson Drive
+2966,wv,University Town Centre (WV)
+2968,wv,West Virginia University
+2969,wv,West Virginia University Health Science Center
+2977,wi,Glendale (WI)
+2978,wi,Green Bay (WI)
+2979,wi,Greendale
+2980,wi,Janesville (WI)
+2981,wi,Menomonee Falls (WI)
+2982,wi,Onalaska (WI)
+2983,wi,Oshkosh (WI)
+2988,wi,West Towne

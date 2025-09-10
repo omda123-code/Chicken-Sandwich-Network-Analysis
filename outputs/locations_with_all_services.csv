@@ -1,0 +1,1381 @@
+id,state,location
+1,al,Airport Blvd (AL)
+6,al,Alexander City [AL]
+7,al,Ann Street
+16,al,Cahaba Heights
+17,al,Calera
+19,al,Daphne
+20,al,Dauphin Street
+21,al,East Dothan
+23,al,Eastwood Village
+24,al,Enterprise (AL)
+25,al,Eufaula [AL]
+26,al,Florence
+28,al,Fort Payne
+29,al,Fultondale
+30,al,Gadsden at 4th Street
+31,al,Gardendale
+33,al,Greystone
+36,al,Helena (AL)
+39,al,Jacksonville [AL]
+42,al,Leeds
+43,al,Madison (AL)
+44,al,McCalla
+47,al,Muscle Shoals
+51,al,Oxford
+53,al,Parkway East
+57,al,Phenix City
+61,al,Ross Clark Circle
+65,al,Schillinger Road
+67,al,South Memorial Parkway
+68,al,Southeast Decatur
+69,al,Southwest Decatur
+71,al,Sylacauga [AL]
+72,al,The Grove
+74,al,Troy (AL)
+76,al,Trussville (AL)
+89,al,Vestavia Hills
+90,al,Whitesburg Drive
+91,al,Wildwood Centre
+94,az,89th & Shea
+95,az,Ahwatukee Foothills Town Center
+96,az,Arcadia
+97,az,Arizona & Ocotillo
+101,az,Arrowhead
+102,az,Avondale
+104,az,Camelback & 16th Street
+105,az,Casa Grande
+106,az,Chandler Festival
+108,az,Crossroads Towne Center
+110,az,El Con
+112,az,Gilbert Gateway Towne Center
+117,az,I-19 & Irvington
+118,az,Ina at Thornydale
+119,az,Mesa Riverview
+123,az,Oracle Road
+124,az,Paradise Valley
+126,az,Power & McKellips
+127,az,Prescott Valley Crossroads
+128,az,Queen Creek
+129,az,Raintree Drive & 101
+130,az,San Tan Village Marketplace
+131,az,Scottsdale 101
+132,az,South Mountain
+136,az,Tanque Verde
+137,az,Thunderbird
+140,az,Yuma
+143,ar,Cantrell Road
+147,ar,Downtown Bentonville
+152,ar,Maumelle
+154,ar,North College Avenue
+155,ar,Otter Creek
+158,ar,Pleasant Grove Road
+160,ar,Reynolds Road
+161,ar,Rogers Avenue
+163,ar,Searcy In-Line DT
+165,ar,Springdale at Sunset Ave
+166,ar,Turtle Creek
+173,ar,West Conway
+174,ar,West Memphis
+176,ar,Whitaker Parkway
+177,ca,101 & Telephone
+178,ca,101 & Winnetka
+182,ca,405 at Jefferson (Los Angeles)
+186,ca,Aliso Viejo In-Line DT
+187,ca,Arden Fair
+188,ca,Auburn Gold Rush
+189,ca,Auto Mall Parkway
+192,ca,Bakersfield
+194,ca,Bear Valley Rd. & Mariposa
+196,ca,Blossom Hill & Almaden Expy
+201,ca,Carmel Mountain
+202,ca,Carson & Vermont
+203,ca,Central Ave. & Riverside Plaza
+205,ca,Chino Hills
+207,ca,Citrus Plaza
+208,ca,City of Industry
+210,ca,Colonies Crossroads
+212,ca,Crenshaw & Redondo Beach Blvd
+213,ca,Crossings at South Corona
+218,ca,Delta Shores
+220,ca,Dexter Avenue
+221,ca,Downey
+222,ca,E. Colorado Blvd
+223,ca,Eastlake Terraces
+224,ca,El Camino Real at Scott
+231,ca,Fairfield In-Line DT
+232,ca,Fashion Fair
+235,ca,Folsom
+237,ca,Fullerton
+238,ca,Glendora Commons In-Line DT
+241,ca,Grossmont
+243,ca,Hidden Valley Parkway
+245,ca,Hopyard Road & 580
+253,ca,I-10 & La Cienega
+258,ca,I-5 & Firestone
+259,ca,Imperial & Bloomfield Norwalk
+262,ca,La Palma Ave
+269,ca,Long Beach
+270,ca,Long Beach Traffic Circle
+272,ca,Madison Avenue
+275,ca,March Lane at I-5
+280,ca,Mira Mesa
+284,ca,Monterey Road & Tully Road
+285,ca,Moorpark Road
+286,ca,Mowry Avenue
+292,ca,Novato
+296,ca,Ontario Mills Parkway
+298,ca,Oxnard
+304,ca,Poway Road & Community
+305,ca,Puente Hills
+306,ca,Quarry Creek
+307,ca,Rancho Cucamonga
+311,ca,Rivergate Cordova
+312,ca,Rocklin Station
+316,ca,Santa Barbara
+317,ca,Santee
+322,ca,South Bay
+324,ca,Sunnyvale
+327,ca,Temecula
+338,ca,Vacaville Commons
+340,ca,Vallejo
+348,ca,White Oak & Ventura
+349,ca,Whittier Blvd & Rosemead
+352,ca,Yorba Linda
+353,co,104th & Federal
+355,co,120th & Washington
+356,co,52nd and Wadsworth
+357,co,Alameda Avenue
+358,co,Aspen Grove
+359,co,Belleview Shores
+360,co,Belmar
+361,co,Brighton
+362,co,Broadway & Dartmouth
+363,co,Broadway & Dartmouth
+364,co,C470 & Kipling
+365,co,Chambers and Parker Road
+366,co,Cherry Creek
+372,co,Dublin Commons
+373,co,Flatiron
+374,co,Fort Collins
+377,co,Garden of the Gods
+378,co,Gardens on Havana
+379,co,Gateway Park
+380,co,Grand Junction
+381,co,Greeley
+384,co,Highlands Ranch Town Center
+385,co,I-25 & Harmony Rd
+387,co,Longmont
+389,co,North Academy Blvd. & I-25
+390,co,North Carefree
+391,co,Northgate
+392,co,Orchard Park Place
+394,co,Park Meadows on County Line Rd
+395,co,Parker
+396,co,Promenade at Castle Rock
+398,co,Quebec Street
+399,co,River Point
+400,co,River Point
+401,co,S. Colorado & Yale
+402,co,Sloan's Lake
+403,co,South Nevada Ave.
+404,co,Southlands
+407,co,Wadsworth Blvd at 80th Avenue
+408,ct,Brookfield
+411,ct,Enfield
+412,ct,Glastonbury
+414,ct,Newington
+415,ct,North Haven
+418,ct,Southington (CT)
+419,ct,Wallingford
+420,ct,West Hartford
+422,de,Camden Town Center
+423,de,Christiana
+428,de,Middletown (DE)
+429,de,Milford Plaza
+430,de,Millsboro
+433,de,Rehoboth Beach
+434,de,Seaford
+440,fl,Altamonte Springs
+441,fl,Amelia Island
+443,fl,Atlantic & Hodges
+448,fl,Bayou Boulevard
+450,fl,Beal Parkway
+452,fl,Black Lake & 192
+453,fl,Boynton Beach Blvd.
+454,fl,Bradfordville
+455,fl,Brandon South
+458,fl,Butler Blvd
+459,fl,Campus Circle
+460,fl,Capital Circle
+461,fl,Casselberry
+462,fl,Celebration
+464,fl,Clearwater
+466,fl,Coconut Creek
+467,fl,Colonial Blvd.
+468,fl,Colonial Plaza Market Center
+469,fl,Coral Springs
+472,fl,Countryside & US Hwy 19
+474,fl,Crestview
+475,fl,Cypress Creek Town Center
+476,fl,Cypress Lake
+479,fl,Davie North
+480,fl,Davie South
+482,fl,Deland
+486,fl,E. Brandon/Valrico
+494,fl,Flagler Park
+502,fl,Fort Lauderdale
+503,fl,Fort Pierce
+504,fl,Four Corners
+507,fl,Gandy Blvd
+509,fl,Gulf Breeze
+510,fl,Hamlin
+515,fl,Hillsboro and Powerline
+517,fl,I-4 & Hwy 27
+524,fl,Kissimmee
+525,fl,Lake Brandon Village
+528,fl,Lake Mary Blvd.
+529,fl,Lake Worth South
+535,fl,Lee Vista
+536,fl,Maitland Boulevard
+537,fl,Malabar Road
+539,fl,Mandarin
+541,fl,Marsh Landing Pkwy
+549,fl,Middleburg
+553,fl,Mt. Dora
+554,fl,Naples Center
+555,fl,Navy Blvd
+556,fl,New Tampa at I-75
+558,fl,Nine Mile Road
+559,fl,Nona
+560,fl,North Dale Mabry
+561,fl,North Lakeland
+562,fl,North Miami Beach
+563,fl,North Monroe Street
+564,fl,North Viera
+566,fl,Oakleaf Town Center
+569,fl,Ocoee
+570,fl,Okeechobee and Turnpike
+571,fl,Oldsmar
+572,fl,Orange Avenue
+576,fl,Orlando Square
+577,fl,Ormond Towne Square
+578,fl,Ortega Park
+579,fl,Oviedo/North UCF
+581,fl,Palm Bay Road
+584,fl,Palm Coast
+585,fl,Palm Harbor
+589,fl,Pelican Plaza
+593,fl,Pine Island Road
+594,fl,Pines and Flamingo
+596,fl,Pompano Beach
+597,fl,Port Charlotte
+598,fl,Port Orange Gateway Center
+599,fl,Regency Park
+603,fl,River City Marketplace
+606,fl,Royal Palm Beach
+607,fl,Sand Lake Road
+608,fl,Sanford (FL)
+610,fl,Saxon Boulevard
+611,fl,Seminole Plaza
+613,fl,South Dale Mabry
+615,fl,South Magnolia Drive
+617,fl,Southchase Plaza
+619,fl,Southside Blvd at the Avenues
+620,fl,Southside Blvd at Tinseltown
+621,fl,Spring Hill
+623,fl,St. Augustine
+624,fl,St. Cloud
+626,fl,St. Lucie West
+627,fl,St. Pete Beach
+629,fl,Stuart
+632,fl,Tampa Stadium
+634,fl,The Fountains of Miramar
+636,fl,The Loop
+639,fl,The Ridge
+646,fl,Tyrone Boulevard
+648,fl,Universal Blvd
+649,fl,University at Forsyth
+650,fl,University at Rouse
+659,fl,Uptown District
+660,fl,UTC
+661,fl,Vero Beach
+662,fl,Viera
+664,fl,Waterford Lakes Town Center
+665,fl,Waters Ave.
+677,fl,Winter Garden
+678,fl,Winter Haven
+679,fl,Zephyrhills
+681,ga,Acworth
+685,ga,Alpharetta Commons
+689,ga,Athens/Atlanta Highway
+691,ga,Augusta Exchange
+695,ga,Bainbridge
+696,ga,Bankhead Hwy
+697,ga,Barnett Shoals
+700,ga,Beechwood
+702,ga,Blairsville
+703,ga,Bradley Park Drive
+704,ga,Braselton
+707,ga,Brookstone
+712,ga,Canton Marketplace
+714,ga,Cascade Road
+718,ga,Chastain Square
+719,ga,Cherokee Place
+721,ga,Clayton
+722,ga,Cleveland (GA)
+723,ga,Cleveland Avenue
+727,ga,Columbus Park Crossing
+730,ga,Commerce Avenue
+732,ga,Cordele
+733,ga,Cornelia
+734,ga,Covington (GA)
+735,ga,Coweta Crossroads
+737,ga,Dacula
+738,ga,Dahlonega
+739,ga,Dallas (GA)
+742,ga,Dawsonville
+744,ga,Doraville Plaza
+745,ga,Douglas [GA]
+746,ga,Douglasville
+749,ga,Dublin
+753,ga,East Lake
+754,ga,Eisenhower Parkway
+755,ga,Ellijay
+756,ga,Epps Bridge
+757,ga,Fairburn
+760,ga,Fayetteville Towne Center
+762,ga,Fort Oglethorpe
+764,ga,Gainesville West
+772,ga,Glenwood Place
+774,ga,Griffin
+775,ga,Grovetown
+778,ga,Hamilton Mill
+782,ga,Hinesville
+785,ga,Hwy 96 and Houston Lake
+787,ga,Jesse Jewell Parkway
+790,ga,Johns Creek
+792,ga,Kedron Village
+797,ga,LaFayette Parkway
+800,ga,Lake Park
+801,ga,LakePoint
+802,ga,Lassiter
+803,ga,Lavonia [GA]
+804,ga,Lee Crossings
+806,ga,Lilburn
+807,ga,Line Creek
+811,ga,Macland Crossing
+812,ga,Macon Road
+813,ga,Madison (GA)
+815,ga,Mall of Georgia on Buford Drive
+816,ga,Manchester Expressway
+817,ga,McDonough
+818,ga,Memorial Drive
+821,ga,Midland
+823,ga,Milledgeville
+824,ga,Monroe (GA)
+825,ga,Moore Road
+826,ga,Moultrie
+827,ga,Mullins Crossing
+829,ga,North Decatur
+830,ga,North Druid Hills
+834,ga,North Valdosta
+836,ga,Northlake Festival
+837,ga,Northridge Drive-Thru Only
+839,ga,Outlet Shoppes at Atlanta
+840,ga,Peach Orchard Road
+841,ga,Peachtree at Collier
+847,ga,Perimeter at Hammond Drive
+850,ga,Piedmont Road
+851,ga,Pike Street
+855,ga,Poplar Road
+858,ga,RELO Lanier Crossing
+864,ga,Rincon
+868,ga,Robson Crossing
+869,ga,Rockmart
+873,ga,Russell Parkway
+875,ga,Salem Bridge [GA]
+877,ga,Sandy Springs
+884,ga,Snellville at Hwy 78
+886,ga,Sprayberry
+888,ga,Starr's Mill
+889,ga,Statesboro
+890,ga,Stone Mountain
+892,ga,Sugarloaf & 316
+893,ga,Sugarloaf & Satellite
+901,ga,Thomasville
+902,ga,Thomson
+903,ga,Thornton Road
+904,ga,Tifton
+919,ga,Tucker Station
+920,ga,Turner Hill Road
+921,ga,Union Grove Crossroads
+927,ga,Vidalia
+928,ga,Villa Rica
+935,ga,West Cobb
+938,ga,Winder
+939,ga,Windward Parkway
+941,ga,Woodlawn Square
+944,id,Ammon
+947,id,Broadway & Front
+948,id,Franklin Road
+950,id,Treasure Valley Nampa
+956,il,Batavia
+957,il,Bloomingdale
+958,il,Bolingbrook
+963,il,Champaign (IL)
+966,il,Chicago Ridge
+968,il,Countryside
+969,il,Crestwood (IL)
+970,il,Crystal Lake
+972,il,East Peoria
+975,il,Elgin (IL)
+976,il,Elmhurst
+977,il,Fairview Heights
+978,il,Ford City (IL)
+979,il,Fox Valley Center
+982,il,Gurnee
+983,il,Homewood (IL)
+986,il,Kildeer
+987,il,Lombard
+990,il,Melrose Park
+993,il,Moline
+994,il,Mount Prospect
+995,il,Niles (IL)
+996,il,Norridge (IL)
+997,il,North Riverside
+998,il,Old Orchard
+999,il,Orland Park
+1000,il,Oswego
+1001,il,Peoria
+1002,il,Rockford
+1003,il,Schaumburg
+1010,il,Vernon Hills
+1011,il,Veterans & College
+1012,il,West Schaumburg
+1014,il,Wheaton
+1015,il,White Oaks
+1016,il,Willowbrook
+1019,in,Anson (IN)
+1020,in,Avon
+1022,in,Bloomington East
+1023,in,Broad Ripple
+1026,in,Coliseum Boulevard
+1028,in,Columbus National
+1029,in,Cross Pointe
+1036,in,Greenwood
+1043,in,Jefferson Pointe
+1045,in,Lafayette (IN)
+1048,in,Mishawaka Main Street
+1049,in,Muncie
+1051,in,Noblesville at SR37
+1053,in,Plainfield
+1056,in,Saxony & I-69
+1059,in,Southport Road
+1061,in,Terre Haute
+1062,in,The Crossing
+1069,in,Veterans Parkway
+1071,in,West Evansville
+1072,in,Westfield
+1075,ia,Ames
+1076,ia,Ankeny
+1078,ia,Davenport
+1079,ia,Dubuque
+1081,ia,Lindale
+1082,ia,Merle Hay
+1083,ia,Mills Civic Parkway
+1087,ia,University Ave (IA)
+1088,ia,Waterloo
+1089,ia,Westdale
+1092,ks,17th and Wanamaker
+1093,ks,21st & Maize
+1095,ks,Central & Rock Road
+1096,ks,Derby Marketplace
+1097,ks,Hutchinson
+1098,ks,Iowa & 27th (KS)
+1102,ks,Lenexa
+1103,ks,Manhattan (KS)
+1104,ks,Maple & Ridge
+1105,ks,Mission Crossing
+1106,ks,Oak Park Plaza
+1107,ks,Olathe Pointe
+1108,ks,Plaza at the Speedway
+1109,ks,Salina
+1116,ky,Campbell Lane
+1119,ky,Dixie Hwy (KY)
+1121,ky,Elizabethtown
+1124,ky,Frankfort (KY)
+1128,ky,Hopkinsville
+1129,ky,Houston Road
+1130,ky,Jefferson Commons
+1133,ky,Mall Road
+1139,ky,Newport Pavilion
+1140,ky,Nicholasville Road
+1145,ky,Richmond Centre
+1146,ky,Richmond Rd at New Circle Rd
+1149,ky,Somerset [KY]
+1151,ky,St. Matthews
+1152,ky,Stonybrook
+1153,ky,Turfland
+1165,la,Burbank & Ben Hur
+1167,la,Covington - Highway 190
+1168,la,Covington - Highway 21
+1172,la,Gonzales (LA)
+1175,la,Harvey
+1180,la,Jackson & Macarthur
+1183,la,Kenner
+1184,la,Lagniappe Village
+1185,la,Lake Charles
+1187,la,LaPlace
+1192,la,Mandeville
+1194,la,Marrero
+1207,la,Thibodaux
+1208,la,Thomas Road
+1212,la,Veterans Memorial Blvd
+1214,la,West Monroe Drive-Thru Only
+1219,md,Aberdeen
+1220,md,Annapolis
+1222,md,Arundel Mills
+1225,md,Bel Air
+1226,md,Bowie
+1227,md,Bowie Marketplace
+1229,md,Cambridge
+1231,md,Capital Centre
+1233,md,Centre at Glen Burnie
+1235,md,Clarksville
+1238,md,Constant Friendship
+1239,md,Corridor Market Place
+1240,md,Crofton
+1241,md,District Heights
+1242,md,Dobbin Center
+1243,md,Easton
+1244,md,Eastpoint
+1245,md,Edgewater (MD)
+1246,md,Eldersburg
+1248,md,Executive Park Drive
+1249,md,First Colony Center
+1250,md,Forest Hill
+1251,md,Foundry Row
+1253,md,Frederick North
+1256,md,Germantown Town Center
+1257,md,Hagerstown
+1258,md,Hunt Valley Towne Centre
+1261,md,Johns Hopkins Road
+1262,md,Joppa Road
+1265,md,La Plata
+1266,md,La Vale
+1267,md,Lansdowne Station
+1268,md,Laurel
+1269,md,Linthicum
+1273,md,North Pointe Plaza (MD)
+1275,md,Olney
+1276,md,Owings Mills Square
+1277,md,Pasadena Crossroads
+1278,md,Perry Hall Shopping Center
+1279,md,Prince Frederick
+1280,md,Quarterfield Crossing
+1282,md,Reisterstown
+1284,md,Rockville Research Row
+1291,md,Steeplechase
+1299,md,Waugh Chapel
+1300,md,West Ocean City
+1305,md,Woodyard Landing
+1308,ma,Brockton
+1310,ma,Cape Cod
+1311,ma,Chicopee
+1313,ma,Dedham
+1315,ma,Framingham
+1317,ma,Marlborough (MA)
+1318,ma,Methuen
+1320,ma,Plymouth
+1321,ma,Seekonk
+1322,ma,Westborough
+1324,ma,Worcester
+1325,mi,28th & Beltline
+1326,mi,54th and 131
+1335,mi,Grand Rapids South
+1336,mi,Holland
+1338,mi,Lansing
+1342,mi,Norton Shores (MI)
+1348,mi,Twelve Oaks (MI)
+1350,mi,Westnedge
+1352,mn,Apple Valley
+1355,mn,Brooklyn Park (MN)
+1356,mn,Burnsville  (MN)
+1357,mn,Chanhassen
+1358,mn,Coon Rapids at Riverdale
+1359,mn,Crossroads Center
+1360,mn,Eagan
+1361,mn,Ear of Corn
+1363,mn,Knollwood
+1365,mn,Maple Grove
+1366,mn,Maplewood
+1370,mn,Northtown
+1372,mn,Roseville (MN)
+1376,mn,West St. Paul
+1377,mn,Woodbury (MN)
+1379,ms,Brandon
+1381,ms,Clinton
+1382,ms,Columbus
+1387,ms,Dogwood Festival
+1390,ms,Getwell Road
+1391,ms,Greenville [MS]
+1397,ms,Laurel (MS)
+1398,ms,Madison (MS)
+1408,ms,Olive Branch
+1413,ms,Southaven
+1414,ms,Starkville
+1415,ms,Thompson Square
+1418,ms,Vicksburg
+1419,ms,West Jackson Avenue
+1420,mo,21st & Range Line Road
+1421,mo,Arnold
+1422,mo,Barry Road
+1424,mo,Blue Springs
+1425,mo,Brentwood (MO)
+1426,mo,Bridgeton (MO)
+1427,mo,Cape Girardeau
+1428,mo,Chesterfield Valley
+1429,mo,Des Peres
+1431,mo,Ellisville
+1432,mo,Florissant (MO)
+1433,mo,Glenstone
+1434,mo,Hampton & Chippewa
+1437,mo,Independence Center
+1439,mo,Liberty
+1442,mo,Mid Rivers Mall Dr & 94
+1448,mo,O'Fallon
+1449,mo,South County
+1452,mo,St. Joseph
+1454,mo,Stadium Boulevard
+1455,mo,Summit Fair
+1456,mo,Sunset Hills
+1457,mo,Sunshine & Campbell
+1461,mo,Ward Parkway
+1465,mt,Kalispell
+1467,ne,123rd & Dodge
+1468,ne,48th & O Street
+1470,ne,76th & Dodge
+1471,ne,Bellevue
+1472,ne,Legacy Village
+1474,ne,Papillion
+1475,ne,SouthPointe Pavilions
+1478,nv,Carson Valley
+1480,nv,Charleston & Fort Apache In-Line DT
+1482,nv,Craig Road & Scott Robinson
+1483,nv,Eastern and Ione
+1485,nv,Flamingo & Valley View
+1487,nv,Hwy 215 & Flamingo
+1491,nv,South McCarran and 580
+1492,nv,Sparks Blvd & I-80
+1493,nv,Stephanie at Warm Springs
+1496,nh,Somerset Plaza
+1498,nj,Audubon Crossings
+1500,nj,Berlin Cross Keys Road
+1501,nj,Berlin Township
+1502,nj,Brick Township
+1503,nj,Burlington Township
+1505,nj,Cherry Hill
+1507,nj,Cumberland
+1509,nj,Delran
+1512,nj,East Gate Square
+1515,nj,Egg Harbor
+1517,nj,Fire Road
+1518,nj,Flemington
+1524,nj,Hamilton Marketplace
+1525,nj,Hazlet
+1526,nj,Howell
+1531,nj,Mantua Square
+1532,nj,Marlkress
+1533,nj,Marlton
+1537,nj,Morris Plains
+1542,nj,Old Bridge
+1544,nj,Phillipsburg
+1545,nj,Ramsey (NJ)
+1548,nj,South Plainfield
+1549,nj,St. Georges Ave
+1552,nj,Teterboro Landing
+1554,nj,Union Township
+1555,nj,Voorhees
+1556,nj,Washington Township at Greentree Rd
+1560,nm,Central & Eubank
+1561,nm,Cerrillos Road
+1565,nm,Gibson Boulevard
+1566,nm,Lohman Avenue
+1567,nm,Main Street & English Road
+1568,nm,Montgomery and San Mateo
+1570,nm,Paseo Del Norte
+1573,nm,Unser & Southern
+1574,nm,Wyoming Boulevard
+1589,ny,Cheektowaga
+1590,ny,Cicero
+1594,ny,Farmingdale
+1598,ny,Greece
+1601,ny,Hicksville NY
+1612,ny,Plattsburgh
+1613,ny,Port Jefferson
+1618,ny,Transit & Losson
+1620,ny,Westbury
+1622,nc,Afton Ridge
+1624,nc,Albemarle
+1625,nc,Albemarle Road
+1635,nc,Blakeney
+1646,nc,Carraway Village
+1648,nc,Clemmons
+1651,nc,Concord Commons
+1653,nc,Concord Parkway
+1654,nc,Cornelius
+1659,nc,Crossroads Plaza Cary
+1660,nc,Davis Lake
+1661,nc,Denver (NC)
+1664,nc,East Woodlawn Road
+1665,nc,Eastchester
+1666,nc,Elizabeth City
+1667,nc,Elkin
+1669,nc,Falls Village
+1673,nc,Franklin (NC)
+1678,nc,Gate City
+1683,nc,Guilford College
+1685,nc,Hanes Mall Boulevard
+1686,nc,Harris Square (NC)
+1688,nc,Henderson
+1689,nc,Hendersonville
+1690,nc,Hendersonville South
+1691,nc,Heritage Village
+1692,nc,High Point
+1695,nc,Holly Springs
+1696,nc,Hope Mills
+1697,nc,Huffman Mill
+1699,nc,Indian Trail
+1704,nc,Kinston
+1705,nc,Knightdale
+1707,nc,Lake Norman
+1708,nc,Laurinburg [NC]
+1709,nc,Leland Town Center
+1712,nc,Lincolnton [NC]
+1713,nc,Lumberton
+1714,nc,Market Street
+1717,nc,Mebane
+1718,nc,Merrimon Avenue
+1721,nc,Mint Hill
+1722,nc,Monkey Junction
+1723,nc,Monroe (NC)
+1725,nc,Mooresville
+1728,nc,Mount Airy
+1731,nc,New Bern
+1736,nc,Northlake Parkway
+1738,nc,Parkside Town Commons
+1739,nc,Peace Haven
+1740,nc,Peters Creek
+1743,nc,Prosperity Church Rd
+1744,nc,Raeford Road
+1745,nc,Ramsey Street
+1747,nc,Renaissance Village
+1749,nc,Rivergate Parkway
+1750,nc,Roanoke Rapids
+1757,nc,Skibo Square
+1758,nc,Smith Crossroads
+1759,nc,Smithfield
+1760,nc,South Asheville
+1762,nc,South Hickory
+1764,nc,South Square
+1769,nc,Statesville
+1770,nc,Stone Creek Village
+1771,nc,Stonecrest at Piper Glen
+1776,nc,Towne Creek Commons
+1788,nc,University Place
+1790,nc,Viewmont
+1791,nc,Village District
+1792,nc,Wake Forest
+1795,nc,Waverly
+1796,nc,Waverly Place
+1797,nc,Waynesville
+1798,nc,Wendover
+1800,nc,West Asheville
+1801,nc,West Fayetteville
+1802,nc,Western Boulevard
+1804,nc,White Oak Crossing
+1805,nc,Whitehall Commons Shopping Center
+1806,nc,Wilkesboro
+1807,nc,Wilson
+1810,nc,Winterville
+1811,nd,Grand Forks
+1814,nd,West Acres
+1815,oh,Airport Highway
+1816,oh,Anderson
+1819,oh,Beavercreek
+1824,oh,Bridgewater Falls
+1827,oh,Central & McCord
+1828,oh,Chapel Hill
+1831,oh,Colerain Commons
+1832,oh,Cornerstone
+1838,oh,Easton Town Center
+1839,oh,Fairfield (OH)
+1840,oh,Findlay (OH)
+1842,oh,Grandview Yard
+1844,oh,Grove City
+1847,oh,Howland
+1852,oh,Liberty Way
+1857,oh,Market of Hilliard
+1859,oh,Mayfield Heights (OH)
+1862,oh,Milford Miami Township
+1863,oh,Montrose
+1864,oh,North Olmsted
+1865,oh,Oakley Station
+1871,oh,Rocky River
+1872,oh,Sandusky (OH)
+1873,oh,Sawmill Road
+1874,oh,Secor Road
+1875,oh,Solon (OH)
+1879,oh,St. Clairsville
+1880,oh,Strongsville
+1881,oh,Talmadge & Sylvania
+1884,oh,Troy In-Line DT
+1890,oh,Voice of America
+1891,oh,Washington Township
+1892,oh,Western Hills
+1893,oh,Willoughby Commons
+1895,ok,12th Avenue
+1896,ok,15th & Sooner
+1897,ok,240 & Western
+1898,ok,29th & Town Center
+1899,ok,2nd & Bryant
+1900,ok,33rd & Broadway
+1901,ok,Ada
+1903,ok,Ardmore
+1904,ok,Bartlesville
+1906,ok,Broken Arrow
+1907,ok,Cache Road
+1908,ok,Claremore
+1909,ok,Classen Point
+1910,ok,Eastside Market
+1911,ok,Enid
+1912,ok,Glenpool
+1913,ok,I-35 at 15th
+1914,ok,I-40 & MacArthur
+1915,ok,May and 63rd
+1918,ok,Muskogee
+1919,ok,Norman
+1925,ok,Owasso Market
+1931,ok,Sand Springs
+1932,ok,Shawnee
+1935,ok,Southroads Shopping Center
+1937,ok,Stillwater
+1938,ok,Tulsa Hills
+1945,ok,Yukon
+1946,or,Cedar Hills Blvd
+1947,or,Clackamas Promenade
+1948,or,Crater Lake & Pacific Hwy
+1949,or,Gresham Village
+1950,or,Hwy 97 & Robal Road
+1953,or,Raleigh Hills
+1958,pa,5th Street Hwy
+1960,pa,Altoona
+1961,pa,Aramingo
+1963,pa,Bartonsville
+1965,pa,Bensalem
+1968,pa,Brookhaven
+1970,pa,Carlisle
+1971,pa,Chambersburg
+1981,pa,East Norriton
+1985,pa,Exeter
+1991,pa,Greengate Centre
+1993,pa,Hanover
+1997,pa,Horsham
+2006,pa,Lima
+2007,pa,Lincoln Highway East
+2008,pa,Lindle Road
+2011,pa,Loucks Road
+2013,pa,Lower Nazareth
+2014,pa,Malvern
+2015,pa,McKnight Road
+2016,pa,Mechanicsburg
+2019,pa,Montgomeryville
+2021,pa,Newtown
+2032,pa,Robinson
+2035,pa,Shrewsbury
+2037,pa,South Hills
+2042,pa,The Waterfront
+2043,pa,Trexlertown
+2046,pa,Warminster
+2047,pa,Warrington Crossing
+2048,pa,Washington (PA)
+2053,pa,Wexford
+2054,pa,Whitehall
+2055,pa,Whitman Square
+2056,pa,Wilkes Barre Township
+2058,ri,Bald Hill Road
+2060,sc,Aiken
+2061,sc,Anderson Pavilion
+2070,sc,Bush River Road
+2071,sc,Camden
+2073,sc,Carolina Forest
+2075,sc,Centre Pointe
+2079,sc,Cherrydale Point
+2080,sc,Church Street
+2089,sc,Dave Lyle Boulevard
+2090,sc,Dorchester Road
+2091,sc,Duncan
+2092,sc,Easley
+2097,sc,Garners Ferry Road
+2098,sc,Goose Creek
+2101,sc,Greenwood (SC)
+2103,sc,Greer
+2107,sc,Hillcrest Shopping Center
+2108,sc,Indian Land
+2109,sc,Irby Street
+2111,sc,Killian Crossing
+2112,sc,Lancaster
+2114,sc,Laurens County
+2117,sc,Long Point Road
+2120,sc,Mauldin
+2122,sc,Midtowne Park
+2124,sc,Mt. Pleasant
+2129,sc,North Augusta
+2132,sc,North Myrtle Beach
+2137,sc,Rivers Avenue
+2138,sc,Saluda Pointe
+2139,sc,Savannah Highway
+2140,sc,Seaboard Commons
+2141,sc,Seneca
+2142,sc,Simpsonville
+2144,sc,Spartanburg
+2145,sc,Summerville (SC)
+2146,sc,Sumter
+2148,sc,Surfside
+2149,sc,Taylors
+2151,sc,Travelers Rest
+2158,sc,Westgate Drive-Thru Only
+2162,sc,Woodruff Road
+2170,tn,Berry Farms
+2172,tn,Brainerd Village
+2173,tn,Brentwood
+2175,tn,Chapman Highway
+2179,tn,Columbia (TN)
+2180,tn,Cookeville
+2183,tn,Crown Point Plaza
+2184,tn,Dyersburg
+2185,tn,East Ridge
+2187,tn,Elizabethton
+2188,tn,Emory Road
+2190,tn,Fountain City
+2193,tn,Germantown Pkwy.
+2195,tn,Greeneville [TN]
+2196,tn,Gunbarrel Pointe
+2198,tn,Hermitage
+2201,tn,Hunter's Crossing
+2202,tn,Hwy 96
+2205,tn,Johnson City Crossing
+2206,tn,Keith Street
+2208,tn,Lebanon
+2210,tn,Lenoir City
+2213,tn,Madison Street
+2216,tn,Memorial Blvd (TN)
+2218,tn,MetroCenter (TN) In-Line DT
+2220,tn,Millington
+2222,tn,Murfreesboro Towne Centre
+2226,tn,Northshore Town Center
+2229,tn,One Bellevue
+2230,tn,Ooltewah
+2233,tn,Poplar Avenue
+2234,tn,Providence Marketplace
+2235,tn,Rivergate
+2236,tn,Sevierville
+2238,tn,South Franklin
+2239,tn,Spring Hill In-Line DT
+2246,tn,The Pinnacle
+2247,tn,The Shoppes at Bartlett
+2248,tn,Thoroughbred Square
+2249,tn,Tullahoma
+2250,tn,Turkey Creek
+2252,tn,Union Avenue
+2259,tn,Vann Drive
+2261,tn,West Hills
+2262,tn,West Market Street
+2265,tn,Wilma Rudolph
+2268,tn,Wolfcreek
+2269,tx,105 & Lonestar Pkwy
+2270,tx,10th Street
+2271,tx,114th & Quaker Avenue
+2274,tx,1960 / I-45
+2277,tx,249 at Jones Road
+2278,tx,27th & Nolana
+2279,tx,281 & Trenton
+2280,tx,288 & Southfork Drive
+2281,tx,290 and Spring Cypress
+2282,tx,2920 / Kuykendahl
+2283,tx,336 Marketplace
+2284,tx,45 & Crosstimbers
+2285,tx,45 & Wayside
+2286,tx,45 & West Road
+2288,tx,4th & Frankford
+2290,tx,59 & Kirby
+2293,tx,69th & Slide
+2296,tx,82nd & Milwaukee
+2297,tx,82nd & University
+2298,tx,Abilene
+2302,tx,Aggieland
+2303,tx,Airway & Edgemere
+2304,tx,Alamo Ranch Marketplace
+2306,tx,Alliance Town Center
+2307,tx,Alon Town Center
+2308,tx,Altamesa and McCart
+2309,tx,Alvin (TX)
+2310,tx,Amarillo at Gem Lake Road
+2312,tx,Anna Town Center
+2315,tx,Balcones Heights
+2316,tx,Bandera Road
+2318,tx,Bastrop
+2321,tx,Baylor University on 7th Street
+2323,tx,Baytown
+2324,tx,Bella Terra
+2326,tx,Belterra Village
+2327,tx,Beltway 8 & Hammerly Blvd.
+2329,tx,Beltway 8 & Wallisville Road
+2330,tx,Beltway 8 at West Road
+2331,tx,Benbrook
+2332,tx,Blanco Road
+2333,tx,Boca Chica
+2334,tx,Braker Lane
+2335,tx,Broad and 360
+2336,tx,Broadway Crossing
+2338,tx,Brownwood [TX]
+2339,tx,Bryan
+2340,tx,Buda
+2341,tx,Burleson
+2342,tx,Calallen
+2343,tx,Camp Wisdom & 360
+2344,tx,Carrier Towne Crossing
+2346,tx,Cedar Park
+2350,tx,Chambers Town Center
+2351,tx,Champions Center
+2352,tx,Chisholm Trail Ranch
+2356,tx,CityLine
+2361,tx,College Street
+2362,tx,Colleyville Blvd & Main
+2364,tx,Copperas Cove
+2365,tx,Copperfield
+2366,tx,Corsicana [TX]
+2369,tx,Cross Roads
+2371,tx,Cypress Towne Lake
+2378,tx,Deer Park
+2380,tx,Del Rio
+2382,tx,Denton Towne Crossing
+2383,tx,Desert Blvd.
+2385,tx,Dixieland Road (TX)
+2386,tx,Dowlen Road
+2387,tx,Eagle Pass
+2388,tx,East Alief
+2390,tx,East Pearland
+2393,tx,Edinburg
+2394,tx,El Dorado Boulevard
+2395,tx,Eldorado & Ridge
+2396,tx,Eldorado & Tollway
+2398,tx,Ennis
+2399,tx,Everhart
+2401,tx,Fairfield Towne Center
+2402,tx,Fairmont Parkway
+2404,tx,Flour Bluff
+2405,tx,FM 620 North
+2407,tx,Forum Shopping Center
+2408,tx,Founders Square
+2409,tx,Four Points
+2410,tx,Frankford Road
+2412,tx,Friendswood (TX)
+2413,tx,Frisco Lakes
+2414,tx,Gainesville (TX)
+2417,tx,Georgetown
+2418,tx,Georgia Street
+2419,tx,Gleannloch Village
+2420,tx,Granbury
+2421,tx,Grand Parkway North
+2422,tx,Grapevine Mills
+2423,tx,Greatwood
+2427,tx,Harker Heights (TX)
+2428,tx,Hawks Creek
+2429,tx,Heights Corner
+2432,tx,Heritage Towne Crossing
+2433,tx,Highland Lakes
+2436,tx,Holcombe & Buffalo Speedway
+2441,tx,Hudson Oaks
+2442,tx,Huebner & Babcock
+2444,tx,Humble
+2445,tx,Huntsville (TX)
+2447,tx,Hwy 183 & Central
+2449,tx,Hwy 26 at Precinct Line
+2452,tx,Hwy. 249 at West Road
+2453,tx,Hwy. 287 & Sublett
+2454,tx,Hwy. 290 & Jones Road
+2456,tx,Hwy. 6 at West Little York
+2457,tx,Hwy. 96 & South Shore Blvd.
+2458,tx,I-10 and Silber Road
+2459,tx,I-10 and Uvalde
+2461,tx,I-20 and Little Road
+2462,tx,I-35 at Aquarena Springs
+2463,tx,I-35 at Wonder World Dr.
+2464,tx,I-35/Ben White
+2465,tx,I-35/Parmer Lane
+2466,tx,I-45 & Almeda
+2467,tx,I-635 and MacArthur
+2468,tx,I-820 and Clifford
+2471,tx,Inwood Road
+2472,tx,Jacksonville [TX]
+2473,tx,Jones Crossing
+2474,tx,Justin Road
+2475,tx,Katy Green
+2476,tx,Katy Mills
+2477,tx,Keller
+2479,tx,Kensington Square
+2480,tx,Kerrville
+2481,tx,Kilgore [TX]
+2482,tx,Killeen
+2483,tx,Kingsville [TX]
+2484,tx,Kingwood
+2488,tx,La Plaza & South 10th Street
+2489,tx,Lake Conroe Parkway
+2490,tx,Lake Forest Dr & Hwy 380
+2492,tx,Lake Houston
+2493,tx,Lake Jackson
+2494,tx,Lake Travis
+2495,tx,Lake Woodlands Drive
+2496,tx,Lake Worth (TX)
+2500,tx,LBJ & Midway
+2501,tx,League City Towne Center
+2502,tx,Leander
+2503,tx,Lebanon & Tollway
+2504,tx,Leon Springs
+2506,tx,Livingston [TX]
+2509,tx,Louetta Crossing
+2511,tx,Love Field
+2513,tx,Magnolia
+2516,tx,Main Street
+2518,tx,Mansfield
+2520,tx,Market at Springwoods Village
+2521,tx,Marketplace at Bob Bullock
+2523,tx,Martin Luther King Drive-Thru Only
+2524,tx,Mason Road
+2525,tx,McCreless Marketplace
+2527,tx,Medical Center
+2528,tx,Memorial & Dairy Ashford
+2531,tx,Mesa Street & Remcon Circle
+2534,tx,Meyerland Plaza
+2535,tx,Mid-County
+2536,tx,Midland Drive
+2538,tx,Midlothian
+2540,tx,Missouri City
+2541,tx,Montana Avenue at Joe Battle Blvd.
+2542,tx,Montgomery Plaza
+2544,tx,Morton Ranch
+2548,tx,N. Tarrant Pkwy & Davis Blvd.
+2549,tx,Nacogdoches
+2550,tx,Nassau Bay
+2551,tx,North 31st Street
+2554,tx,North Collins Street
+2556,tx,North Garland Crossing
+2557,tx,North Hills Crossing
+2558,tx,North Laredo
+2559,tx,North Mopac & Parmer Lane
+2560,tx,North Rockwall
+2563,tx,Northpark Drive
+2564,tx,Northway Center
+2565,tx,Northwest Crossing
+2566,tx,NW Highway
+2567,tx,Odessa Town Center
+2569,tx,Orange
+2570,tx,Palestine [TX]
+2571,tx,Palm Valley Blvd
+2572,tx,Palmhurst
+2573,tx,Paris [TX]
+2574,tx,Park Boulevard & Plano Parkway
+2575,tx,Parkway Village
+2576,tx,Pavilions North
+2577,tx,Pearland
+2578,tx,Pearland Parkway
+2580,tx,Pflugerville
+2581,tx,Pharr
+2582,tx,Pioneer Parkway
+2583,tx,Pipeline Road at Loop 820
+2586,tx,Portland (TX)
+2587,tx,Potranco Road
+2589,tx,Presidio Towne Crossing
+2590,tx,Preston & Beltline
+2591,tx,Preston & Park
+2594,tx,Prestonwood
+2595,tx,Raider Park
+2598,tx,Red Oak
+2601,tx,Ridge Road
+2603,tx,Roanoke
+2604,tx,Rojas
+2606,tx,Rosenberg
+2607,tx,Rowlett
+2608,tx,Ruben Torres
+2610,tx,S. Rice and Westpark
+2611,tx,Saginaw
+2613,tx,Saratoga
+2614,tx,Sawdust Road
+2615,tx,Sawyer Heights
+2616,tx,Schertz
+2618,tx,Shadow Creek Ranch
+2619,tx,Sharyland Towne Crossing
+2621,tx,Sherwood Way
+2622,tx,Sienna Crossing
+2623,tx,South 31st Street
+2624,tx,South Burleson
+2625,tx,South College Station
+2626,tx,South Cooper Street
+2628,tx,South Loop Crossing
+2629,tx,South Mopac at US Hwy 290 West
+2633,tx,Southlake
+2634,tx,Southpark Meadows
+2635,tx,Southwest Military
+2638,tx,Spencer Hwy & Burke Rd
+2639,tx,Spring Creek & Hwy. 121
+2642,tx,Staples and McArdle
+2647,tx,Stone Ridge
+2652,tx,Summerwood
+2656,tx,Sunshine Strip
+2658,tx,Terrell
+2668,tx,Texas City
+2677,tx,The Colony
+2678,tx,The Crossing at Katy Fulshear
+2683,tx,The Woodlands at College Park
+2687,tx,Trinity Mills
+2688,tx,Twin Creeks Village
+2690,tx,University Blvd Odessa
+2691,tx,University Blvd.
+2708,tx,Valley Ranch
+2712,tx,Wall Street
+2715,tx,Waterview Town Center
+2716,tx,Waxahachie North
+2717,tx,Weatherford
+2718,tx,Weslaco
+2719,tx,West Bryan
+2720,tx,West End
+2721,tx,West Longview
+2723,tx,West Midland
+2726,tx,Western Center Blvd
+2728,tx,Westheimer & Fondren
+2729,tx,Westheimer & Kirkwood
+2730,tx,WestPointe Village
+2732,tx,White Rock
+2734,tx,William D Tate
+2736,tx,Willis
+2738,tx,Wilson/Beltway 8
+2739,tx,Windsong and 380
+2741,tx,Zaragosa Road
+2742,ut,American Fork
+2745,ut,Centerville
+2747,ut,Cougar & State
+2749,ut,Draper
+2751,ut,Fort Union
+2752,ut,Jordan Landing
+2753,ut,Layton
+2755,ut,Lehi Pointe
+2756,ut,Logan
+2757,ut,Mountain View Village
+2760,ut,Orem Plaza
+2761,ut,Red Rock Commons
+2762,ut,Riverdale City
+2763,ut,South Jordan
+2766,ut,Spanish Fork
+2767,ut,Station Park
+2769,ut,Taylorsville
+2774,ut,West Valley
+2778,va,Atlee Station
+2781,va,Battlefield Blvd.
+2782,va,Bonsack
+2783,va,Bristol
+2784,va,Bristow
+2785,va,Broad Creek Crossing
+2786,va,Burke Centre
+2787,va,Candlers Crossing
+2789,va,Center of the Universe
+2791,va,Chantilly
+2792,va,Chantilly Air and Space
+2793,va,Chester
+2794,va,Chesterfield Plaza
+2796,va,Christiansburg
+2800,va,Colonial Heights
+2803,va,Culpeper Colonnade
+2805,va,Dulles 28 and Waxpool Road
+2806,va,Dulles Town Crossing
+2807,va,Dumfries
+2809,va,Fair Lakes (VA)
+2810,va,Fairfax Circle
+2811,va,Frederick Blvd.
+2812,va,Fredericksburg
+2814,va,General Booth Blvd.
+2816,va,George Washington
+2817,va,Ghent
+2819,va,Grassfield
+2821,va,Harbour View
+2823,va,Haygood Shopping Center
+2824,va,Haymarket
+2825,va,Hull Street at Brandermill
+2829,va,Lake Ridge
+2830,va,Lansdowne Town Center (VA)
+2832,va,Leesburg
+2836,va,Main Street (VA)
+2839,va,Martinsville
+2840,va,Mechanicsville
+2841,va,Mercury Boulevard
+2846,va,North Point Village
+2847,va,Northampton Blvd.
+2851,va,Pantops
+2852,va,Parham Road
+2853,va,Parkway Plaza
+2857,va,Portsmouth Blvd.
+2858,va,Purcellville
+2864,va,Rutherford Crossing
+2865,va,Ryan Park
+2866,va,Salem
+2867,va,Salem Crossing
+2869,va,Short Pump Crossing
+2872,va,South Riding
+2875,va,Southpoint
+2878,va,Staunton [VA]
+2880,va,Sudley Manor Drive
+2881,va,Sugarland Crossing
+2882,va,Sully Plaza
+2889,va,Valley View Boulevard
+2891,va,Victory Boulevard
+2893,va,Village Commons
+2894,va,Virginia Beach Blvd
+2895,va,Virginia Center
+2898,va,Virginia Gateway
+2901,va,Wards Road
+2902,va,Warrenton
+2906,va,Westchester Commons
+2909,va,Willow Lawn
+2910,va,Winterpock
+2911,va,Woodbridge
+2913,va,Yoder Plaza
+2917,dc,Dakota Crossing
+2927,wa,272nd at Wax
+2928,wa,38th & Steele
+2931,wa,Bothell Canyon Park
+2932,wa,Bridgeport & 100th
+2933,wa,Cascade Park
+2934,wa,Celebration at Federal Way
+2935,wa,Fircrest
+2937,wa,I-5 & 88th Marysville
+2938,wa,I-5 & Alderwood
+2942,wa,Puyallup
+2944,wa,Southcenter Parkway
+2945,wa,Totem Lake
+2954,wv,Harper Road
+2955,wv,Highlands
+2963,wv,Princeton
+2964,wv,Ranson
+2965,wv,Southridge Center
+2967,wv,Vienna
+2970,wi,124th and Capitol
+2971,wi,Appleton
+2973,wi,Delafield (WI)
+2974,wi,Drexel Town Square
+2975,wi,East Madison
+2984,wi,Pewaukee (WI)
+2985,wi,Pleasant Prairie (WI)
+2986,wi,Racine
+2987,wi,West Allis Center
+2989,wy,Dell Range
